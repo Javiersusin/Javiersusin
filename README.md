@@ -26,6 +26,7 @@ Here are some of the exciting projects I've been working on:
 ### 🍽️ **BiteFinder**
 - **Description:** BiteFinder is a web app designed to make discovering and rating restaurants fun and easy. With a powerful **search and filter** functionality, users can find the best restaurants based on ratings, location, and type of cuisine. 
 - **Technologies Used:** HTML, CSS, Bootstrap, Node.js, Supabase
+- **COLABORATOR :** @Simon30804
 - **Key Features:**
   - **Restaurant discovery** with **filters** for cuisine type, ratings, and location.
   - **User voting** system to contribute to restaurant rankings.
